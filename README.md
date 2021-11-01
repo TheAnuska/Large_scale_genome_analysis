@@ -8,7 +8,9 @@ The algorithm describes how the final relative adaptiveness table, the collectio
 
 
 ribosomal_protein_genes.csv - initial file with selected ribosomal proteins genes
+
 genes.csv - file with all proteins genes
+
 Final_weight_table.csv - file with the results
 
 
